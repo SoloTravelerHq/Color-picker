@@ -1,0 +1,25 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+table {
+  margin: 0 auto;
+}
+td {
+  width: 20px;
+  height: 20px;
+  border: 1px solid transparent;
+}
+input {
+  width: 100px;
+  height: 20px;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+#displayColor {
+  width: 200px;
+  height: 20px;
+  display: inline-block;
+  border: none;
+}
